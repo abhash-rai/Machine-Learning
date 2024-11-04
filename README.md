@@ -33,6 +33,6 @@ This project is build using Streamlit for deployment of a trained CatBoost Regre
 
     > First time running this will take some time as it will create a virtual environment, install dependencies and run streamlit app automatically.
 
-4. (If on other system) You must run first create a virtual environment, install dependencies from [requirements.txt](./model-deployed/requirments.txt) and run the streamlit app script named [main.py](./model-deployed/main.py)
+4. (If on other system) You must run first create a virtual environment, install dependencies from [requirements.txt](./model-deployed/requirements.txt) and run the streamlit app script named [main.py](./model-deployed/main.py)
 
 
