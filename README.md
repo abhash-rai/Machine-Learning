@@ -1,4 +1,4 @@
-# US Monthly Appartment Price Prediction
+# US Monthly Apartment Price Prediction
 
 This project is build using Streamlit for deployment of a trained CatBoost Regressor model developed to predict monthly appartment rent price prediction. The model used here achieved R2 score of 0.8101979279626192 on test dataset. For more details on the model training process, please visit the Kaggle project [here](https://www.kaggle.com/code/abhashrai/monthly-rental-prediction) or find the .ipynb file [here](./model-training/monthly-rental.ipynb).
 
