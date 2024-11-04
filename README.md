@@ -2,6 +2,8 @@
 
 This project is build using Streamlit for deployment of a trained CatBoost Regressor model developed to predict monthly appartment rent price prediction. The model used here achieved R2 score of 0.8101979279626192 on test dataset. For more details on the model training process, please visit the Kaggle project [here](https://www.kaggle.com/code/abhashrai/monthly-rental-prediction) or find the .ipynb file [here](./model-training/monthly-rental.ipynb).
 
+If you wish to repart the complete report on this project head over to [report.pdf](./docs/report.pdf).
+
 <p align="center">
   <img width="100%" src="./docs/demo.gif" alt="App Demo">
 </p>
@@ -16,13 +18,13 @@ This project is build using Streamlit for deployment of a trained CatBoost Regre
 1. Clone the repository `(In terminal)`:
 
     ```
-    git clone https://github.com/abhash-rai/US-Monthly-Appartment-Price-Prediction.git
+    git clone https://github.com/abhash-rai/US-Monthly-Apartment-Price-Prediction.git
     ```
 
 2. Enter into the streamlit app directory:
 
     ```
-    cd US-Monthly-Appartment-Price-Prediction/model-deployed
+    cd US-Monthly-Apartment-Price-Prediction/model-deployed
     ```
     
 3. (If on windows) Run the `run.bat` file:
